@@ -12,3 +12,5 @@
 * What are the most popular forms of art in this collection and what can this tell about this collection? 
 * What themes are the most common in modern arts? 
 * What can we tell from the artists whose arts is collected? How are the race, nationalities, gender distributed, and what can we know from the distribution? 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/erinzhu234/DH140_final_project/HEAD)
