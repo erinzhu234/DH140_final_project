@@ -3,3 +3,7 @@ matplotlib
 pandas
 math
 string
+geopandas
+pycountry
+requests
+nltk
